@@ -1,0 +1,14 @@
+no API
+
+operator:
+pop
+push
+add
+jmp
+call
+lea
+
+context:
+ip
+sp
+
